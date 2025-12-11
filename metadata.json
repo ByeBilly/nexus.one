@@ -1,0 +1,7 @@
+{
+  "name": "NEXUS.ONE",
+  "description": "The Community Layer for Notebook LLM. A studio, DAO, and mining ecosystem for the creators of tomorrow.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
